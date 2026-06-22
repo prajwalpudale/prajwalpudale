@@ -32,7 +32,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 I'm Prajwal Pudale from Pune<br><br>- 🎓 Final-year Computer Science undergraduate (B.Tech, 2026)<br>- 💻 I build things with Python, Computer Vision, and AI/ML<br>- 🤖 I'm currently exploring Voice AI, NLP, and OCR-based automation<br>- 🛠️ I've interned at Softra System Pvt. Ltd. and Saiket Systems, building real-world CV and automation tools<br>- 📫 Reach me at prajwal.pudale700@gmail.com</p>
+<p data-importer="text" align="left">👋 I'm Prajwal Pudale from Pune<br><br>- 🎓Computer Science graduate (B.Tech, 2026)<br>- 💻 I build things with Python, Computer Vision, and AI/ML<br>- 🤖 I'm currently exploring Voice AI, NLP, and OCR-based automation<br>- 🛠️ I've interned at Softra System Pvt. Ltd. and Saiket Systems, building real-world CV and automation tools<br>- 📫 Reach me at prajwal.pudale700@gmail.com</p>
 
 ###
 
